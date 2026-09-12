@@ -6,8 +6,8 @@
             "binary_link": "https://github.com/esrevi0nu/tool_resource_01/releases/download/v0.1.260912/_agy.exe",
             "binary_md5": "27c33da67d79e1d97845ce4369591a14",
             "def_config_link": "https://github.com/esrevi0nu/tool_resource_01/releases/download/v0.1.260912/default.gemini.zip",
-            "def_config_md5": "11c8bb5450ef7c2a2e43befe3064d326",
-            "def_config_path": "%USERPROFILE%\\.gemini\\"
+            "def_config_md5": "8413fa9fa4153ce0a1d93743de13226c",
+            "def_config_path": "%USERPROFILE%\\"
         }
     },
     "claude": {
