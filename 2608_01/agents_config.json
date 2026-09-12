@@ -1,0 +1,35 @@
+{
+    "agy": {
+        "name": "agy",
+        "windows": {
+            "version": "1.2.2",
+            "binary_link": "https://github.com/esrevi0nu/tool_resource_01/releases/download/v0.1.260912/_agy.exe",
+            "binary_md5": "27c33da67d79e1d97845ce4369591a14",
+            "def_config_link": "https://github.com/esrevi0nu/tool_resource_01/releases/download/v0.1.260912/default.gemini.zip",
+            "def_config_md5": "11c8bb5450ef7c2a2e43befe3064d326",
+            "def_config_path": "%USERPROFILE%\\.gemini\\"
+        }
+    },
+    "claude": {
+        "name": "claude",
+        "windows": {
+            "version": "2.1.269",
+            "binary_link": "https://github.com/esrevi0nu/tool_resource_01/releases/download/v0.1.260912/_claude.exe",
+            "binary_md5": "ab29605810daf8c4bc8c5982abefbbbc",
+            "def_config_link": "",
+            "def_config_md5": "",
+            "def_config_path": ""
+        }
+    },
+    "codex": {
+        "name": "codex",
+        "windows": {
+            "version": "0.153.4",
+            "binary_link": "https://github.com/esrevi0nu/tool_resource_01/releases/download/v0.1.260912/_codex.exe",
+            "binary_md5": "0a7055c45a67d8de7695cb5c2b81d082",
+            "def_config_link": "",
+            "def_config_md5": "",
+            "def_config_path": ""
+        }
+    }
+}
